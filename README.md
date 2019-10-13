@@ -5,6 +5,7 @@ Mapping of CTCI questions to similar Leetcode questions
 |  CTCI Question 	| Leetcode Question  | Difficulty |
 |---							|---								|---				|
 | 1.1 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy |
+| 1.2 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium |
 
 ### Chapter 4
 |  CTCI Question 	| Leetcode Question  | Difficulty |
