@@ -19,3 +19,4 @@ Mapping of CTCI questions to similar Leetcode questions
 |  CTCI Question 	| Leetcode Question  | Difficulty |
 |---							|---								|---				|
 | 8.1 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy |
+| 8.12 | [51. N-Queens](https://leetcode.com/problems/n-queens/) | Hard |
